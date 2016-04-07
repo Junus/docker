@@ -1,20 +1,13 @@
 #Docker files
 
-* [Android with Java 7](android-java7/README.md)
-* [Android r22 with Java 7](android-java7-r22/README.md)
-* [Android r24.4.1 with Java 7](android-java7-r24-4-1/README.md)
-* [Jenkins](jenkins/README.md)
-* [Go CD](go-cd/README.md)
-* [Go CD Agent](go-cd-agent/README.md)
-* [Nginx](nginx/README.md)
+* Android with Java 8
 
 ## License
 
     Copyright [2015]
     
 		Contributors:
-		 * Jacek Marchwicki  <jacek.marchwicki@gmail.com>
-		 * Karol Wojtaszek <karol@appunite.com>
+		 * Junus <a.junusbek@gmail.com>
 		
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
